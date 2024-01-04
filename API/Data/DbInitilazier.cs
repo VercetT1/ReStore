@@ -91,7 +91,7 @@ namespace API.Data
                     Name = "Green React Woolen Hat",
                     Description =
                         "Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
-                    Price = 8000,
+                    Price = 7000,
                     PictureUrl = "/images/products/hat-react1.png",
                     Brand = "React",
                     Type = "Hats",
