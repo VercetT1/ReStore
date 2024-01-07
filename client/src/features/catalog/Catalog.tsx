@@ -14,7 +14,7 @@ export default function Catalog()
             .then(response => response.json())
             .then(data => setProducts(data))
     }, [])
-        //Change
+        
     return (
         <>
             <ProductList products={products} />
